@@ -18,7 +18,7 @@
    <modules>
 		<module>discovery-server</module>
 		<module>zuul-proxy</module>
-		<module>user-service/module>
+		<module>user-service</module>
 		<module>ui-service</module>
 	</modules>
 	
